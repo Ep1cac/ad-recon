@@ -6,6 +6,6 @@ Current version is a prototype.
 
 ## Usage
 ```bash
-sudo -t <subnet> -u <username> -p <password> -w <wordlist> 
+sudo ad_smb.sh -t <subnet> -u <username> -p <password> -w <wordlist> 
 ```
 
